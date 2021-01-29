@@ -1,5 +1,5 @@
 # SPS-8120-Food-Drinks-Domain
-Food &amp; Drinks Domain
+Food & Drinks Domain:-
 In this project i will describe you how to make live website on Restaurant domain
 
 Prerequisites:-
